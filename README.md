@@ -7,12 +7,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-nex
 ```bash
 cd ui-kit
 ```
+Using node 18.20.0 or larger (Pls use nvm for easier node version changes)
 
 Install it and run:
 
 ```bash
-npm install
-npm run dev
+yarn
+yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
